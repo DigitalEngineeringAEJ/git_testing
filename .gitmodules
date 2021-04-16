@@ -1,0 +1,4 @@
+[submodule "DigitalEngineeringAEJ/SO-Projekt"]
+	path = DigitalEngineeringAEJ/SO-Projekt
+	url = git@github.com:DigitalEngineeringAEJ/SO-Projekt.git
+	branch = AEJ_Testing
