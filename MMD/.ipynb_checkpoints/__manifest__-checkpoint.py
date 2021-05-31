@@ -3,14 +3,10 @@
 {
     'name': 'Multi Media Design',
     
-    'summary': """Hier könnte eine Zusammenfassung stehen"""",
+    'summary':'',
     
-    'description': """
-        Hier könnte eine Beschreibung des Moduls stehen:
-        -
-        -
-        -
-    """",
+    'description':'',
+   
     
     'author': 'AEJ Member',
     
